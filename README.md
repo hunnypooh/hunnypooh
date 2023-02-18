@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
- <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=Apache Hadoop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white"/>
 
  🌱 I’m currently learning : 
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
