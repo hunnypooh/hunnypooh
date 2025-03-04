@@ -23,8 +23,7 @@
  🌱 I’m currently learning : 
  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/jiwon2461999)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiwon2461999)](https://solved.ac/jiwon2461999)
 <!--
 **hunnypooh/hunnypooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
